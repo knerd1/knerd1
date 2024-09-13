@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knerd1&" alt="knerd1" /></p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+![Jokes Card](https://readme-jokes.vercel.app/api)
