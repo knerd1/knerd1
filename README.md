@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knerd1&show_icons=true&locale=en&layout=compact" alt="knerd1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knerd1&" alt="knerd1" /></p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
