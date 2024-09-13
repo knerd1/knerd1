@@ -27,3 +27,5 @@
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jzml88oumkct524pks1beska1&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jzml88oumkct524pks1beska1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
