@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/knerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="knerd" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27310162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27310162" height="30" width="40" /></a>
-<a href="https://hashnode.com/knerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="knerd" height="30" width="40" /></a>
+<a href="https://hashnode.com/@knerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="knerd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
