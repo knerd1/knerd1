@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Roboto+Mono&size=25&pause=1000&background=FF6AD200&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh;A+passionate+React+Native+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Roboto+Mono&size=20&pause=1000&background=FF6AD200&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh;A+passionate+React+Native+developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knerd1&label=Profile%20views&color=0e75b6&style=flat" alt="knerd1" /> </p>
 
