@@ -6,8 +6,6 @@
 
 - 📝 I regularly write articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
 
-- 📫 How to reach me **ashutosh.pandey1120@gmail.com**
-
 - ⚡ Fun fact **i use arch BTW**
 
 <h3 align="left">Connect with me:</h3>
