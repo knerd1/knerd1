@@ -31,3 +31,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jzml88oumkct524pks1beska1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <a href="https://app.daily.dev/knerd1"><img src="https://api.daily.dev/devcards/v2/FwG2N40s9pej2PgrK2FO5.png?type=wide&r=gcw" width="652" alt="Ashutosh's Dev Card"/></a>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/668d28e38896c6f50b145f5c?variant=dark)](https://roadmap.sh)
