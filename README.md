@@ -26,5 +26,4 @@
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
-<p align="left" > ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
- </p>
+<![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
