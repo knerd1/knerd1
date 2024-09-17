@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native,Typescript**
 
-- 📝 I regularly write articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
+- 📝 I Sometimes write articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
 
 - ⚡ Fun fact **i use arch BTW**
 
