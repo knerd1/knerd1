@@ -6,7 +6,7 @@
 
 - 📝 I occasionally pen articles on [hashnode.com](https://knerd1.hashnode.dev/)
 
-- ⚡ Fun fact that **i use arch BTW**
+- ⚡ Fun fact **i use arch BTW**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
