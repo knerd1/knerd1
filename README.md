@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knerd1&label=Profile%20views&color=0e75b6&style=flat" alt="knerd1" /> </p>
  
-- 🌱 I’m currently learning **Cpp, React Native, Typescript**
+- 🌱 I’m currently learning **C++, React Native, Typescript**
 
 - 📝 I occasionally pen articles on [hashnode.com](https://knerd1.hashnode.dev/)
 
