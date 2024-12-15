@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&weight=500&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&weight=500&duration=2000&pause=3000&center=true&width=435&lines=A+proactive+React-Native+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&weight=500&duration=3000&pause=2000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&weight=500&duration=3000&pause=2000&center=true&width=435&lines=A+proactive+React-Native+developer!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knerd1&label=Profile%20views&color=0e75b6&style=flat" alt="knerd1" /> </p>
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knerd1" alt="knerd1" /></a> </p> -->
