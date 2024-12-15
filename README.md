@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/knerd_0" target="blank"><img src="https://img.shields.io/twitter/follow/knerd_0?logo=twitter&style=for-the-badge" alt="knerd_0" /></a> </p>
 
-- 🌱 I’m currently learning **cpp, React Native,Typescript**
+- 🌱 I’m currently learning **Cpp, React Native,Typescript**
 
 - 📝 I occasionally pen articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
 
@@ -27,8 +27,8 @@
 <a href="https://www.hackerrank.com/knerd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knerd1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/knerd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="knerd1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/knerd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knerd1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@knerd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@knerd1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/knerd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="knerd1" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@knerd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@knerd1" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/knerd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="knerd1" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
