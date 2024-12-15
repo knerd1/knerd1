@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knerd1&label=Profile%20views&color=0e75b6&style=flat" alt="knerd1" /> </p>
 
-<-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knerd1" alt="knerd1" /></a> </p> -->
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knerd1" alt="knerd1" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/knerd_0" target="blank"><img src="https://img.shields.io/twitter/follow/knerd_0?logo=twitter&style=for-the-badge" alt="knerd_0" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashutosh.pandey1120@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3OXhEDn](http://bit.ly/3OXhEDn)
+- 📄 Know about my experiences [Resume](http://bit.ly/3OXhEDn)
 
 - ⚡ Fun fact **i use arch BTW!**
 
