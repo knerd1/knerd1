@@ -10,8 +10,6 @@
 
 - 📝 I occasionally pen articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
 
-- 📫 How to reach me **ashutosh.pandey1120@gmail.com**
-
 - 📄 Know about my experiences [Resume](http://bit.ly/3OXhEDn)
 
 - ⚡ Fun fact **i use arch BTW!**
