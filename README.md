@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ashutosh-portfolio-eta.vercel.app/)
 
-- 📝 I occasionally pen articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
+- 📝 I occasionally pen articles on [Hashnode](https://knerd1.hashnode.dev/)
 
 - 📄 Know about my experiences [Resume](https://bit.ly/ashuResume)
 
