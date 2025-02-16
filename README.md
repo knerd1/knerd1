@@ -11,7 +11,7 @@
 
 - 📝 I occasionally pen articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
 
-- 📄 Know about my experiences [Resume](https://bit.ly/42i6JMq)
+- 📄 Know about my experiences [Resume](https://bit.ly/ashuResume)
 
 - ⚡ Fun fact **i use arch BTW!**
 
