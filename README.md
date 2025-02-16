@@ -8,11 +8,9 @@
 <p align="left"> <a href="https://twitter.com/knerd_0" target="blank"><img src="https://img.shields.io/twitter/follow/knerd_0?logo=twitter&style=for-the-badge" alt="knerd_0" /></a> </p>
 
 - 🌱 I’m currently learning **Cpp, React Native,Typescript**
-
+- 👨‍💻 All of my projects are available at [https://ashutosh-portfolio-eta.vercel.app/](https://ashutosh-portfolio-eta.vercel.app/)
 - 📝 I occasionally pen articles on [https://knerd1.hashnode.dev/](https://knerd1.hashnode.dev/)
-
 - 📄 Know about my experiences [Resume](https://bit.ly/ashuResume)
-
 - ⚡ Fun fact **i use arch BTW!**
 
 <h3 align="left">Connect with me:</h3>
