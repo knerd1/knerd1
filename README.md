@@ -9,7 +9,6 @@
 - 📝 I regularly write articles on [Hashnode](https://knerd1.hashnode.dev/)
 - 📫 How to reach me **ashutosh.pandey1120@gmail.com**
 - 📄 Know about my experiences [Resume](https://bit.ly/ashuResume)
-
 - ⚡ Fun fact **i use arch BTW!**
 
 <h3 align="left">Connect with me:</h3>
