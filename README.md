@@ -2,7 +2,8 @@
 <h3 align="left">A proactive Software developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knerd1&label=Profile%20views&color=0e75b6&style=flat" alt="knerd1" /> </p>
-<a href="https://wakatime.com/@b7c1761c-b2c7-44fb-9a02-9811f8b07065"><img src="https://wakatime.com/badge/user/b7c1761c-b2c7-44fb-9a02-9811f8b07065.svg" style="social" alt="Total time coded since Jan 7 2025" /></a>
+<a href="https://wakatime.com/@b7c1761c-b2c7-44fb-9a02-9811f8b07065"><img src="https://wakatime.com/badge/user/b7c1761c-b2c7-44fb-9a02-9811f8b07065.svg" ?style="plastic" alt="Total time coded since Jan 7 2025" /></a>
+
 - 🌱 I’m currently learning **Java,C++,React Native,Typescript**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ashutosh-portfolio-eta.vercel.app/)
