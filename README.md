@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://ashutosh-portfolio-eta.vercel.app/" target="_blank">Ashutosh Pandey</a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knerd1&label=Profile%20views&color=0e75b6&style=flat" alt="knerd1" /> </p>
-<a href="https://wakatime.com/@b7c1761c-b2c7-44fb-9a02-9811f8b07065"><img src="https://wakatime.com/badge/user/b7c1761c-b2c7-44fb-9a02-9811f8b07065.svg" alt="Total time coded since Jan 7 2025" /></a>
+<a align="left" href="https://wakatime.com/@b7c1761c-b2c7-44fb-9a02-9811f8b07065"><img src="https://wakatime.com/badge/user/b7c1761c-b2c7-44fb-9a02-9811f8b07065.svg" alt="Total time coded since Jan 7 2025" /></a>
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knerd1" alt="knerd1" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/knerd_0" target="blank"><img src="https://img.shields.io/twitter/follow/knerd_0?logo=twitter&style=for-the-badge" alt="knerd_0" /></a> </p>
