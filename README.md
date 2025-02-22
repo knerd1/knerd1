@@ -6,16 +6,10 @@
 <a align="left" href="https://wakatime.com/@b7c1761c-b2c7-44fb-9a02-9811f8b07065"><img src="https://wakatime.com/badge/user/b7c1761c-b2c7-44fb-9a02-9811f8b07065.svg" alt="Total time coded since Jan 7 2025" /></a>
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knerd1" alt="knerd1" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/knerd_0" target="blank"><img src="https://img.shields.io/twitter/follow/knerd_0?logo=twitter&style=for-the-badge" alt="knerd_0" /></a> </p>
-
 - 🌱 I’m currently learning **Cpp, React Native,Typescript**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://ashutosh-portfolio-eta.vercel.app/)
-
 - 📝 I occasionally pen articles on [Hashnode](https://knerd1.hashnode.dev/)
-
 - 📄 Know about my experiences [Resume](https://bit.ly/ashuResume)
-
 - ⚡ Fun fact **i use arch BTW!**
 
 <h3 align="left">Connect with me:</h3>
