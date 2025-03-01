@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@b7c1761c-b2c7-44fb-9a02-9811f8b07065"><img src="https://wakatime.com/badge/user/b7c1761c-b2c7-44fb-9a02-9811f8b07065.svg"&style=plastic alt="Total time coded since Jan 7 2025" /></a>
 
 - 🌱 I’m currently learning **Java,C++,React Native,Typescript**
-- 👨‍💻 All of my projects are available at [Portfolio](bit.ly/Ashutoshp-Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](bit.ly/Ashutoshp-Portfolio/)
 - 📝 I regularly write articles on [Hashnode](https://knerd1.hashnode.dev/)
 - 📫 How to reach me **ashutosh.pandey1120@gmail.com**
 - 📄 Know about my experiences [Resume](https://bit.ly/ashuResume)
