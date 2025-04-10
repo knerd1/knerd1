@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://ashutosh-portfolio-eta.vercel.app/)
 - 📝 I regularly write articles on [Hashnode](https://knerd1.hashnode.dev/)
 - 📫 How to reach me **ashutosh.pandey1120@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1opzzckN3XOu7WSXsV735tvzljHcow_Rw/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bo66yRTmgpukLSUbgopKUxSQtl5NRWsA/view?usp=drivesdk)
 - ⚡ Fun fact **i use arch BTW!**
 
 <h3 align="left">Connect with me:</h3>
